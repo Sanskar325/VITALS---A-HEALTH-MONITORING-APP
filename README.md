@@ -1,3 +1,4 @@
+<img width="1080" height="2204" alt="Screenshot_20260515_221646_healthapp" src="https://github.com/user-attachments/assets/2b4e4cad-b9fd-4b21-8197-2f6061d4fa10" />
 # 🏥 VITALS - Health Monitoring App
 
 A comprehensive, cross-platform mobile application built with React Native and Expo to help users monitor their health vitals, manage medical records, and schedule appointments.
